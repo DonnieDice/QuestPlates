@@ -1,2 +1,3 @@
+- TOC bump: Now retail-only (Interface 120007). Updated from 110105.
 - Updated - TOC version bump [QuestPlates.toc]
 - Updated - Email address updated in TOC [QuestPlates.toc]

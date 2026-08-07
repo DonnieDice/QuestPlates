@@ -5,7 +5,7 @@
 ## Author: Semlar, DonnieDice
 ## Email: joseph@cranberriestudios.com
 ## SavedVariables: QuestPlateSettings
-## IconTexture: Interface\AddOns\QuestPlates\images\icon
+## IconTexture: Interface\AddOns\QuestPlates\images\icon.tga
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/QuestPlates

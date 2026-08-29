@@ -1,0 +1,7 @@
+variables:
+  GITHUB_MIRROR_REPOSITORY: DonnieDice/QuestPlates
+
+include:
+  - project: rgxmods/warcraft/RGX-Framework
+    ref: main
+    file: /.gitlab/ci/addon.yml
